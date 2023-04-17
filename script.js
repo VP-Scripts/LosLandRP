@@ -1,5 +1,5 @@
 let first = null;
-let second = "https://discord.gg/";
+let second = "https://discord.gg/tWzdmmmCwX";
 let third = "TeamSpeak Link";
 
 
@@ -32,7 +32,7 @@ function openLink(value) {
         alert('Server is currently under development')
     }
     if (value == "second") {
-        window.location.href = "https://discord.gg/";
+        window.location.href = "https://discord.gg/tWzdmmmCwX";
     }
     if (value == "third") {
         window.location.href = "ts3server://";
